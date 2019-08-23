@@ -2,8 +2,9 @@
   <header class="header">
     <h2 class="header__title">TodoList</h2>
     <nav class="header__nav">
-      <router-link to="/">Home</router-link>&nbsp; |&nbsp;
-      <router-link to="/above">Above</router-link>
+      <router-link to="/">Home</router-link>
+      &nbsp; |&nbsp;
+      <router-link to="/about">About</router-link>
     </nav>
   </header>
 </template>
